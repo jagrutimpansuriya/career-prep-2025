@@ -8,7 +8,7 @@ This repository contains my learning projects, coding practice, and certificatio
 - SRE / DevOps (Kubernetes, Terraform, CI/CD)
 
 ## Progress Tracker
-- DSA Problems Solved: 0/50
+- DSA Problems Solved: 1/50
 - OCI Modules Completed: 0/10
 - SRE Mini Projects Completed: 0/2
 
